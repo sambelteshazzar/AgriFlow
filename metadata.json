@@ -1,0 +1,9 @@
+{
+  "name": "AgriFlow - Smart Farming Solutions",
+  "description": "A professional agricultural management platform empowering farmers with AI-driven insights, crop health monitoring, and real-time market analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
